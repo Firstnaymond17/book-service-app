@@ -48,8 +48,11 @@ Heap dump снят через jmap. Размер: 81 МБ. Утечек памя
 ## Grafana
 
 ### JVM Micrometer (ID: 4701)
+<img width="1920" height="943" alt="Снимок" src="https://github.com/user-attachments/assets/31533e3c-19ea-4e7a-bbbb-189258a104be" />
+<img width="1920" height="954" alt="Снимок2" src="https://github.com/user-attachments/assets/d29c3d55-561d-4384-bb1f-adbb5971c372" />
 
 ### Book Service Custom Dashboard
+<img width="1216" height="931" alt="Снимок3" src="https://github.com/user-attachments/assets/b491ecc0-dd32-4fa8-a589-7df3ef8ad3da" />
 
 | Панель | PromQL | Описание |
 |---|---|---|
